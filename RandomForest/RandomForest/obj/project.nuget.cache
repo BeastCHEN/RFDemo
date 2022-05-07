@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyrLxynH7h6gsqI08oSLO3vYC3j5Xg6gKgX4eYfLcIIlFj71MN8ddL086+yIsdCHTAFAWTZvCHrRT4Ka8ggjcw==",
+  "success": true,
+  "projectFilePath": "E:\\RFDemo\\RandomForest\\RandomForest\\RandomForest.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chenx\\.nuget\\packages\\accord\\3.8.2-alpha\\accord.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\chenx\\.nuget\\packages\\accord.machinelearning\\3.8.2-alpha\\accord.machinelearning.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\chenx\\.nuget\\packages\\accord.math\\3.8.2-alpha\\accord.math.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\chenx\\.nuget\\packages\\accord.statistics\\3.8.2-alpha\\accord.statistics.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\chenx\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\chenx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
